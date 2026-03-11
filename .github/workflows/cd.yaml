@@ -44,7 +44,7 @@ jobs:
       root_module_folder_relative_path: '.'
       name: dev
       display_name: Development
-      runner_name: self-hosted
+      runner_name: ubuntu-latest
       environment_name_plan: dev-plan
       environment_name_apply: dev-apply
       dependent_environment: 
